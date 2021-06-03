@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/%3CFEW2.3-ReactProductList%3E/static/css/main.c8ce1d0e.chunk.css",
-    "main.js": "/%3CFEW2.3-ReactProductList%3E/static/js/main.f273e8a6.chunk.js",
-    "main.js.map": "/%3CFEW2.3-ReactProductList%3E/static/js/main.f273e8a6.chunk.js.map",
-    "runtime-main.js": "/%3CFEW2.3-ReactProductList%3E/static/js/runtime-main.a75b2fde.js",
-    "runtime-main.js.map": "/%3CFEW2.3-ReactProductList%3E/static/js/runtime-main.a75b2fde.js.map",
-    "static/js/2.b4ab0a3c.chunk.js": "/%3CFEW2.3-ReactProductList%3E/static/js/2.b4ab0a3c.chunk.js",
-    "static/js/2.b4ab0a3c.chunk.js.map": "/%3CFEW2.3-ReactProductList%3E/static/js/2.b4ab0a3c.chunk.js.map",
-    "static/js/3.f23b4e5d.chunk.js": "/%3CFEW2.3-ReactProductList%3E/static/js/3.f23b4e5d.chunk.js",
-    "static/js/3.f23b4e5d.chunk.js.map": "/%3CFEW2.3-ReactProductList%3E/static/js/3.f23b4e5d.chunk.js.map",
-    "index.html": "/%3CFEW2.3-ReactProductList%3E/index.html",
-    "static/css/main.c8ce1d0e.chunk.css.map": "/%3CFEW2.3-ReactProductList%3E/static/css/main.c8ce1d0e.chunk.css.map",
-    "static/js/2.b4ab0a3c.chunk.js.LICENSE.txt": "/%3CFEW2.3-ReactProductList%3E/static/js/2.b4ab0a3c.chunk.js.LICENSE.txt"
+    "main.css": "/FEW2.3-ReactProductList/static/css/main.c8ce1d0e.chunk.css",
+    "main.js": "/FEW2.3-ReactProductList/static/js/main.f273e8a6.chunk.js",
+    "main.js.map": "/FEW2.3-ReactProductList/static/js/main.f273e8a6.chunk.js.map",
+    "runtime-main.js": "/FEW2.3-ReactProductList/static/js/runtime-main.c4292a22.js",
+    "runtime-main.js.map": "/FEW2.3-ReactProductList/static/js/runtime-main.c4292a22.js.map",
+    "static/js/2.b4ab0a3c.chunk.js": "/FEW2.3-ReactProductList/static/js/2.b4ab0a3c.chunk.js",
+    "static/js/2.b4ab0a3c.chunk.js.map": "/FEW2.3-ReactProductList/static/js/2.b4ab0a3c.chunk.js.map",
+    "static/js/3.f23b4e5d.chunk.js": "/FEW2.3-ReactProductList/static/js/3.f23b4e5d.chunk.js",
+    "static/js/3.f23b4e5d.chunk.js.map": "/FEW2.3-ReactProductList/static/js/3.f23b4e5d.chunk.js.map",
+    "index.html": "/FEW2.3-ReactProductList/index.html",
+    "static/css/main.c8ce1d0e.chunk.css.map": "/FEW2.3-ReactProductList/static/css/main.c8ce1d0e.chunk.css.map",
+    "static/js/2.b4ab0a3c.chunk.js.LICENSE.txt": "/FEW2.3-ReactProductList/static/js/2.b4ab0a3c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a75b2fde.js",
+    "static/js/runtime-main.c4292a22.js",
     "static/js/2.b4ab0a3c.chunk.js",
     "static/css/main.c8ce1d0e.chunk.css",
     "static/js/main.f273e8a6.chunk.js"
